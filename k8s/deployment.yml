@@ -3,7 +3,7 @@ apiVersion: apps/v1
 
 metadata:
   name: notesapp-deployment
-  namespace: notesapp
+  namespace: nginx
   labels:
     app: notesapp
 
